@@ -9,6 +9,6 @@ Pyber riding share data in CSV files
 ## Languages & Tools used 
 Python, Pandas, Matplotlib
 
-## Final Product
+## Project Outcome
 
 Please click [this link](https://github.com/jwoh1323/Pyber/blob/c00438c1ecfa8bb081546e55216c76f1db53d249/Pyber/pyber_starter.ipynb) to see the data exploration analysis
