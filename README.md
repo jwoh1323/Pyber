@@ -7,7 +7,7 @@ The purpose of this project is to perform exploratory analysis of Pyber ride sha
 CSV files
 
 ## Languages & Tools used 
-Python, Pandas
+Python, Pandas, Matplotlib
 
 ## Final Product
 
